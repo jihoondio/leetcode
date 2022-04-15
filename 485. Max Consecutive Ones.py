@@ -12,3 +12,4 @@ class Solution:
         if curr > ans:
             ans = curr
         return ans
+        
